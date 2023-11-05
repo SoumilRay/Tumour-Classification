@@ -19,4 +19,12 @@ PM2: Same as PM1 but the training examples are shuffled
 
 PM3: Perceptron Model trained on the normalized data
 
-PM4: Same as PM1 but the order of features is changed.
+PM4: Same as PM1 but the order of features is randomly changed
+
+FLDM1:  Fisher’s Linear Discriminant Model
+
+FLDM2: Same as FLDM1 but the order of features is randomly changed
+
+LR1: Logistic Regression Model trained on non-normalized data
+
+LR2: Logistic Regression Model trained on normalized data
